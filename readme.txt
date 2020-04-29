@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 暂存区的代码
 工作区的代码
+我是傻逼
